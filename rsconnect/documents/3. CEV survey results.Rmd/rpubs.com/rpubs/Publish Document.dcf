@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/748557/a9deae962a7b4f0996de403e5aa7e26e
+bundleId: https://api.rpubs.com/api/v1/document/748557/a9deae962a7b4f0996de403e5aa7e26e
+url: http://rpubs.com/sgpeytrignet/748557
+when: 1617285351.64708
